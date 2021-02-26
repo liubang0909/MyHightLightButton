@@ -1,0 +1,16 @@
+PODS:
+  - MyHightLightButton (0.1.0)
+
+DEPENDENCIES:
+  - MyHightLightButton (from `../`)
+
+EXTERNAL SOURCES:
+  MyHightLightButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyHightLightButton: 754fbdb49b54636e659fd2159c0af1fda770af13
+
+PODFILE CHECKSUM: 4e5e6a2396647b32f64685f6c4600c80c71a3d16
+
+COCOAPODS: 1.9.1

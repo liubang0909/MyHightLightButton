@@ -1,0 +1,22 @@
+{
+  "name": "MyHightLightButton",
+  "version": "0.1.0",
+  "summary": "A short description of MyHightLightButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cb2720bafec9f905de42a1cd8173893539adb60a/MyHightLightButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cb2720bafec9f905de42a1cd8173893539adb60a": "1548033152@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/cb2720bafec9f905de42a1cd8173893539adb60a/MyHightLightButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyHightLightButton/Classes/**/*"
+}

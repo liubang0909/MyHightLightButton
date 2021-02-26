@@ -1,0 +1,6 @@
+framework module MyHightLightButton {
+  umbrella header "MyHightLightButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
